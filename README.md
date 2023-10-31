@@ -1,6 +1,15 @@
 # Análisis Genómico y Filogenético del Brote de Monkey Pox en México
 
-Este repositorio contiene los datos y análisis relacionados con el brote de monkey pox en México. El proyecto se centra en el análisis genómico y filogenético de muestras tomadas de diferentes lesiones de 20 pacientes.
+## Introducción
+
+El monkey pox es una enfermedad viral que ha causado preocupación en diversas regiones del mundo debido a su capacidad de propagación y las implicaciones para la salud pública. En México, recientemente se identificó un brote de esta enfermedad, lo que llevó a la necesidad de investigar y comprender mejor la naturaleza del virus en el contexto local. Este repositorio se dedica a documentar el análisis genómico y filogenético de muestras tomadas de diferentes lesiones de 20 pacientes afectados por el brote. A través de técnicas avanzadas de secuenciación y análisis bioinformático, buscamos arrojar luz sobre las características genéticas del virus y su relación con otros brotes a nivel mundial.
+
+## Objetivos
+
+1. **Caracterizar Genéticamente el Virus**: Identificar las particularidades genómicas del virus presente en las muestras de los pacientes mexicanos y compararlas con cepas conocidas a nivel mundial.
+2. **Entender la Variabilidad del Virus**: Analizar las muestras de diferentes lesiones de los pacientes para determinar si se trata del mismo virus o existen variaciones.
+3. **Evaluar la Calidad de los Primers**: Relacionar la información de las bases no identificadas en los virus de los pacientes con la calidad de los primers utilizados, para mejorar futuras investigaciones.
+4. **Contribuir a la Salud Pública**: Proporcionar información valiosa que pueda ser utilizada por las autoridades de salud para tomar decisiones informadas en relación con el brote y su manejo.
 
 ## Contenido
 
