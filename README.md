@@ -41,8 +41,9 @@ Los resultados preliminares indican.
 
 ## Contribuidores
 
-- Dr. Fidel Alejandro Sánchez 
-- [Otros colaboradores]
+- Dr. Fidel Alejandro Sanchez Flores
+- César Fernando Esparza Alvarado
+- 
 
 ## Licencia
 
