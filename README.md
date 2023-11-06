@@ -6,11 +6,10 @@ El monkey pox es una enfermedad viral que ha causado preocupación en diversas r
 
 ## Objetivos
 
-1. **Caracterizar Genéticamente el Virus**: Identificar las particularidades genómicas del virus presente en las muestras de los pacientes mexicanos y compararlas con cepas conocidas a nivel mundial.
-2. **Entender la Variabilidad del Virus**: Analizar las muestras de diferentes lesiones de los pacientes para determinar si se trata del mismo virus o existen variaciones.
-3. **Estudiar la Evolución del Virus a través de Filogenias**: Utilizar análisis filogenéticos para rastrear la acumulación de mutaciones en el virus a lo largo del tiempo y determinar su trayectoria evolutiva.
-4. **Evaluar la Calidad de los Primers**: Relacionar la información de las bases no identificadas en los virus de los pacientes con la calidad de los primers utilizados, para mejorar futuras investigaciones.
-5. **Contribuir a la Salud Pública**: Proporcionar información valiosa que pueda ser utilizada por las autoridades de salud para tomar decisiones informadas en relación con el brote y su manejo.
+1. **Entender la Variabilidad del Virus**: Analizar las muestras de diferentes lesiones de los pacientes para determinar si se trata del mismo virus o existen variaciones.
+2. **Estudiar la Evolución del Virus a través de Filogenias**: Utilizar análisis filogenéticos para rastrear la acumulación de mutaciones en el virus a lo largo del tiempo y determinar su trayectoria evolutiva.
+3. **Evaluar la Calidad de los Primers**: Relacionar la información de las bases no identificadas en los virus de los pacientes con la calidad de los primers utilizados, para mejorar futuras investigaciones.
+4. **Contribuir a la Salud Pública**: Proporcionar información valiosa que pueda ser utilizada por las autoridades de salud para tomar decisiones informadas en relación con el brote y su manejo.
 
 ## Contenido
 
