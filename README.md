@@ -24,10 +24,11 @@ El monkey pox es una enfermedad viral que ha causado preocupación en diversas r
   - **concatenated_assemblies**: Ensamblajes concatenados por paciente.
 
 - **analysis**: Resultados y análisis.
-  - **genome_satatistics**: Resumen de los genomas del virus recolectado por paciente. 
-  - **unidentified_bases**: Información sobre las bases no identificadas.
-  - **primer_quality**: Análisis de la calidad de los primers en relación con las bases no identificadas.
-  - **variant_analysis**: información general de las variantes. 
+  - **MPXV-genome_satatistics**: Resumen de los genomas del virus recolectado por paciente. 
+  - **MPXV-unidentified_bases**: Información sobre las bases no identificadas.
+  - **MPXV-primer_genome-positions.tvs**: 63 juegos de oligos para amplificar MPXV, siguiendo el panel de amplicones hMPXV de Yale, del protocolo "Monkeypox virus multiplexed PCR amplicon sequencing (PrimalSeq)  V.4". 
+  - **MPXV-primer_quality**: Análisis de la calidad de los primers en relación con las bases no identificadas.
+  - **MPXV-variant_analysis**: información general de las variantes. 
 
 - **scripts**: Scripts y códigos utilizados en el proyecto.
 
